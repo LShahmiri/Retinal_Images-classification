@@ -8,21 +8,7 @@ Diabetic
 Glaucoma
 
 Heal (Healthy)
--------------------------------------------
-Retinal Images/
-├── Diabetic/
-│   ├── 01_d.jpg
-│   ├── 02_d.jpg
-│   └── ...
-├── glaucoma/
-│   ├── 01_g.jpg
-│   ├── 02_g.jpg
-│   └── ...
-└── heal/
-    ├── 01_h.jpg
-    ├── 02_h.jpg
-    └── ..
---------------------------------------------
+---------
 Model Overview
 
 Base model: Xception (pretrained on ImageNet)
